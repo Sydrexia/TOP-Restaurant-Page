@@ -1,0 +1,31 @@
+.intro-section {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.rest-image {
+    height: 40vw;
+    width: 50vw;
+}
+
+/* Menu Styling */
+
+.menu-items {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 15vw;
+}
+
+.menu-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 3vw;
+}
+
+.menu-card-img {
+    height: 20vw;
+    width: 25vw;
+}
